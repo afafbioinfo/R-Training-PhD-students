@@ -1,5 +1,5 @@
 
-**R for Biologists: a powerful statistical tool in research **
+**R for Biologists: a powerful statistical tool in research**
 
 # Table of contents
 1. [Introduction](#introduction)
