@@ -3,14 +3,14 @@
 
 # Table of contents
 1. [Introduction](#introduction)
-2. [Descrptive statistics](#paragraph1)
+2. [Descriptive statistics](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Inferential Statistics](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
+## Get initiated to R <a name="introduction"></a>
 How to set-up  Rstudio?
 
-## Descrptive statistics <a name="paragraph1"></a>
+## Descriptive statistics <a name="paragraph1"></a>
 The first paragraph text
 
 ### Sub paragraph <a name="subparagraph1"></a>
